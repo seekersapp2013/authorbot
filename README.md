@@ -143,3 +143,4 @@ If you have any project using this word-rnn, please let us know. I'll list up yo
 
 # Contribution
 Your comments (issues) and PRs are always welcome.
+# authorbot
